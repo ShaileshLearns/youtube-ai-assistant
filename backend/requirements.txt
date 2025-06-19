@@ -1,0 +1,7 @@
+youtube-transcript-api
+pytube
+openai-whisper
+ffmpeg-python
+fastapi 
+uvicorn
+python-multipart
